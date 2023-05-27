@@ -1,10 +1,10 @@
 .title {
-    color: rgb(58, 13, 182);
+    color: rgb(58, 88, 71);
     font-size: 24px;
   }
   
   #paragraph {
-    color: rgb(214, 213, 220);
+    color: rgb(64, 53, 36);
     font-size: 16px;
     
   }
@@ -18,7 +18,7 @@
   }
   .colored-background {
     display: inline-flex;
-    background-color: #837c7c;
-    padding: 4px;
+    background: rgba(244, 244, 244, 0.427);
+    padding: 3px;
   }
   
