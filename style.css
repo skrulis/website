@@ -6,11 +6,10 @@
   #paragraph {
     color: rgb(64, 53, 36);
     font-size: 16px;
-    
   }
   
   body {
-    background-image: url("IMG_3744.jpg");
+    background-color: #79b6db;
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -21,4 +20,7 @@
     background: rgba(244, 244, 244, 0.427);
     padding: 6px;
   }
-  
+  img {
+    width: 100%;
+    height: auto;
+  }
